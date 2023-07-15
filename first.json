@@ -3,6 +3,11 @@
     "score": 20.95,
     "isAdmin": false,
     "license": null,
-    "shopItem": ["food", "clothes", "cosmetics"]
+    "shopItem": ["food", "clothes", "cosmetics"],
+    "myObj": {
+        "name": "nestedjson",
+        "marks": 25,
+        "shopItem2": ["food", "clothes", {"a" : true}] 
+    }
 }
 
